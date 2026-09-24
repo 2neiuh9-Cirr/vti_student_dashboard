@@ -8,20 +8,20 @@ const SideBar = () => {
 
         <div className="flex items-center mb-4">
             <IoMdHome className="mr-2" />
-            Trang chu
+            Trang chủ
         </div>
 
         <div className="flex items-center mb-4">
             <TiGroup className="mr-2" />
-            Quan ly sinh vien
+            Quản lý sinh viên
         </div>
         <div className="flex items-center mb-4">
             <FaBookReader className="mr-2" />
-            Quan ly khoa hoc
+            Quản lý khóa học
         </div>
         <div className="flex items-center mb-4">
             <IoIosSettings className="mr-2" />
-            Thiet lap
+            Thiết lập
         </div>
 
     </div>
